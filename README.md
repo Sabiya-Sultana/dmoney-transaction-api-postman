@@ -2,11 +2,12 @@ Dmoney_Transaction_testing_api
 
 #About Project Summary :
 
-This porject has automate DMoney user and transection api using postman
+This porject has automate dmoney user and transection api using postman
 
 #Tools & Technology used:
 
 .Postman
+
 .Newman
 
 #Pre requisites:
