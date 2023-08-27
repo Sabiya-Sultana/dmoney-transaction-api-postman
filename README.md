@@ -2,7 +2,7 @@ Dmoney_Transaction_Testing_api
 
 #About Project Summary :
 
-This porject has automate dmoney user and transection api using postman
+This porject has automate dmoney user and transaction api using postman
 
 #Tools & Technology used:
 
